@@ -1,0 +1,59 @@
+.
+.
+.
+.
+.                                                                                                                                         
+                                                  `                                                                                                             
+                                                 .//-`          ::`                                                                                             
+                                                 -+oo/-`       -+o+:                                                                                            
+                                                 :+ssoo/-      :+so+                                                                                            
+                                                 :+ssssso/.    ./oo/                                                                                            
+                                                 :+ssssssso/.    ..      ``..``````                                                                             
+                                                 :+ssssssssoo/.          .://////::::-----.....`````                                                            
+                                                 -+sssssyssssoo/.     ::-/+++++++++++++++++++/////-.                                                            
+                                          ``     .+ssssyhyssssso+:`  :+o+++++++++++++++++++++++++:.                                                             
+                                         -+/:``  .+ssssyhhysssssso+:-+osso++++++++++++++++++++++:.                                                              
+                                         :+soo/:..+osssyhhhhssssssso+osssso++++++++++++++++++++:.`                                                              
+                                         :+ssssoo++osssyhhhhhyssssssssssssso++++++++++++++++++/.`                                                               
+                                         :+sssssssossssyhhhhhhyssssssssssssss+++++oo+++++++++/.`                                                                
+                                         :+ssssssssssssyhhhhhhhyssshhsssssssss+++ossso++++++/.`                                                                 
+                                         /ossssyhyysssshhhhhhhhhhsyhhhyssssssss+ossssso++++/-`                                                                  
+                                        `+sssssyhhhhyyshhhddhhhhhhhhhhhyssssssssssssssss++/-`                                                                   
+                                    `   -+sssssyhhhhhhhhhhdmdhhhhhhhhhhhysssyhsssssssssss+:..````````                                                           
+                                   .+/-`+osssssyhhhhhhhhhhdmmdhhhhhhhhhhhyshhhhsssssssso/::+o++++////:::---.....``````                                          
+                                   /oso++ssssssyhhhhhddhhhmmmmddhddhhhhhhhhhhhhhssssso/:/osso+osssssssoossooooo+++++///:..`                                     
+                                  -+sssssssyyssyhhhhhdmdddmmmmmddmmdhhhhhhhhhhhhhsso/:/osso/:/ossssoo/:ossssso+/osssoo/-:-.                                     
+                                  /osssssssyhhhyhhhhhdmmmmmmmmmmmmmmdhhddhhhhhhhhs::+osoo/:+ossssoo/:+osssso+:/ossoo/-/oo:.                                     
+                                  +osssysssyhhhhhhhhhdmmmmmmmmmmmmmmmddmmdhhhhho::+ssoo//+sssssoo//+ssssso+:/osso+:-/oooo:.                                     
+                                  +ossshhyyyhhhhhddhhdmmmmmmmmmmmmmmmmmmmmdhy+::osso+:/ossssso+:/ossssso/:+osso+:-/oooooo:.                                     
+                                  /ossshhhhhhhhhhdmmmmmmmmmmmmmmmmmmmmmmmmh+-/osso+:/ossssso+:/ossssso/:+ssso+-:+oooooooo:.                                     
+                                  -+ssshhhhhhhddddmmmmmmmmmmmmmmmmmmmmmmh+-/osso/:/ossssso/:+osssso+:/ossso/-:+oooo++oooo:.                                     
+                                  `+ossyhhhhhhhmmmmmmmmmmmmmmmmmmmmmmdy/:+osso/:+ossssso/:+ssssso+:/ossso/-:ooooooo//oooo:.                                     
+                                   -:/++ossyyyhdmmmmmmmmmmmmmmmmmmmds::+ssss+:+sssssso:/ossssso/:+ossso:-/ooooooooo//oooo:.                                     
+                                   .:o++++////://///+++oossyyhhhddo:/oossssssssssssssoosssssss/+osss+:-/ooooooooooo//oooo/.                                     
+                                   ./ssssyysssssssssssoooo+++////::::::::////++++ooooossssssssssso+:-/ooooooooooooo//oooo/.                                     
+                                   ./ssssyyyyyyyyyyyyyyyyyyyyyyssssssssssooo+++////::::::::://///-:+ooooooooooooooo//ooo+:.                                     
+                                   ./ssssssssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysssssssssssooo+-/ooooooo//oooooooo///:-:/:.                                    
+                                   ./sssso+++++++++++++++oooosssssyyyyyyyyyyyyyyyyyyyyyyyyyyssss-/ooooooo//oooooo+/-:/+oooo/.                                   
+                                   .:sssssyyyyyyssssssssssooo+++++++++++++++oooosssssyyyyyyyssss-/ooooooo//ooo+/::/oooosssso-`                                  
+                                   .:ssssyyyyyyyyyyyyyyyyyyyyyyyyyyssssssssssoooo++++++++++sssss-/ooooooo/:+:::+ooossssssso/.                                   
+                                   .:ssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyssssssssss-/ooooo+/-:/+ooossssssoo+/-.`                                   
+                                   .:ssssyyyyyyyo+//+syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysssss-:oooo::/+oosssssssoo+::::.                                     
+                                   .:ssssyyyyyy+-...--oyyyyyyyyyyyyyyyyyyyyyyysssyyyyyyyyyysssss-:ooo:-oossssssso+/::/+oo/.                                     
+                                   .:ssssyyyyyy:......:yyyyyyyyyyyyyyyyyyyyyo:---:oyyyyyyyysssss-:ooo::oosssoo+/::/:/oooo/.                                     
+                                   .:ssssyyyyyys:-...-+yyyyyssyyyyyyyyyyyyyy-.....-+yyyyyyyyssss-:ooo+::/+++/::/ooo//oooo/.                                     
+                                   .:ssssyyyyyyyso+++syyyyyy+-/oyyys+/syyyyy/....../yyyyyyyyssss-:ooooo+/::/+oooooo//oooo/.                                     
+                                   .:ssssyyyyyyyyyyyyyyyyyyyyo/::::::+syyyyys+:---/syyyyyyysssss::ooooooo//oooooooo//oooo/.`                                    
+                                   .-ssssyyyyyyyyyyyyyyyyyyyyyyssoosyyyyyyyyyyssssyyyyyyyyysssss::ooooooo//oooooooo/+oooo/.`                                    
+                                   .-sssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysssss::ooooooo//ooooooooooo+:::.                                     
+                                   `-sssso++ooooooosssssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysssss::ooooooo//oooooooo+:::+o/.                                     
+                                   .-sssssssssoooooo+++++++++++ooooooosssssssyyyyyyyyyyyyyysssss::ooooooo//ooooo+:-..:///-`                                     
+                                   .-sssyyyyyyyyyyyyyyyyyysssssssoooooo+++++++++++ooooooosssssss::ooooooo++oo+:-``   ````                                       
+                                   .-oooosssssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyyssssssoooooooosssss::oooooooo+:-``                                                 
+                                   `-/////:---:::://++++oooosssssssyyyyyyyyyyyyyyyyyyyyyyyyyssss:-ooooo+:-.`                                                    
+                                    .+ssss/.       ```````...----:::///+++ooooosssssssyyyyyyssss:-oo+:-``                                                       
+                                     `.---.                            ``````...----:::///+++ooo:-:-.`                                                          
+                                                                                        ````.-//::+/.                                                           
+                                                                                            `-/ooo/-`                                                           
+                                                                                             ``.-.``                                                            
+.                                                                                            
