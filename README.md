@@ -13,3 +13,6 @@ OR
 # Parties for 5 seconds 
 dumpster-fire -loops 5 
 ```
+# Docker image
+You can also run it from a docker image!
+`docker run -it -rm carflo/dumpster-fire`
